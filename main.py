@@ -8,5 +8,5 @@ print("Raiders of the lost Ark")
 print("Once upon a time in Hollywood")
 
 #print third movie
-print("Once upon a time in the west")
+print("Spider-man 2")
 
