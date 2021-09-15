@@ -66,3 +66,12 @@ def topThreeFoods():
 topThreeFoods()
 topThreeSports()
 topThreeVideoGames()
+
+print(27 + 2004)
+
+def myNameIs(Dog):
+    print(Dog + "Gabriel Trotter")
+
+myNameIs("Gabriel Trotter")
+myNameIs("Go")
+
