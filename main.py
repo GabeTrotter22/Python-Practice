@@ -16,7 +16,7 @@ def topFiveMovies():
 
 topFiveMovies()
 
-def topThreeBands():
+def topFourBands():
     #print first band
     print("Van Halen")
 
@@ -25,5 +25,44 @@ def topThreeBands():
 
     #print third band
     print("The Clash")
+    
+    #print fourth band
+    print("Weezer")
 
-topThreeBands()
+topFourBands()
+
+def topThreeSports():
+    
+    #print first sport
+    print("Karate")
+
+    #Print second sport
+    print("Boxing")
+
+    #print third sport
+    print("Muay Thai")
+
+def topThreeVideoGames():
+
+    #Print first game
+    print("Assassin's Creed")
+
+    #Print second game
+    print("Elder Scrolls")
+
+    #Print third game
+    print("Uncharted")
+
+def topThreeFoods():
+    #print first food
+    print("Burgers") 
+    
+    #print second food
+    print("Pizza")
+
+    #print third food
+    print("fruit salad")
+
+topThreeFoods()
+topThreeSports()
+topThreeVideoGames()
