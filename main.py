@@ -56,3 +56,4 @@ spellingBee("dogfood")
 def spellingBee2(w):
     for i in range(0, len(w)):
         print(w[i]) 
+
